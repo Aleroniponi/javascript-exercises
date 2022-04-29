@@ -1,5 +1,6 @@
-const sumAll = function() {
-
+const sumAll = function(a, ...b) {
+const range = 
+return sum;
 };
 
 // Do not edit below this line
